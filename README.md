@@ -41,6 +41,6 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscanton&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I mostly code
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 [![Itscanton's site](https://github-readme-stats.vercel.app/api/pin/?username=itscanton&repo=itscanton.github.io&theme=material-palenight)](https://github.com/itscanton/itscanton.github.io)
