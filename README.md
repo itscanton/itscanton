@@ -40,6 +40,7 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 ---
 
 ![Itscanton's github stats](https://github-readme-stats.vercel.app/api?username=itscanton&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscanton&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/itscanton/itscanton.github.io">
-  <img align="center" src="https://github-readme-stats.itscanton.vercel.app/api/pin/?username=itscanton&repo=itscanton.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscanton&repo=itscanton.github.io&theme=material-palenight" />
 </a>
