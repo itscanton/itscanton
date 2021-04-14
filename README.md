@@ -36,6 +36,6 @@ I'm a web developer with ♥ developing new products in [PHP](https://php.net) a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-<br />
+---
 
 ![Itscanton's github stats](https://github-readme-stats.vercel.app/api?username=itscanton&show_icons=true&hide_border=true)
