@@ -11,6 +11,8 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 <img align="left" alt="Sergio Cantón LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
+<br />
+
 ## What i'm up to
 
 - 🔭 I’m currently working for Public Government leading an IT Department
