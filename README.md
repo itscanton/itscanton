@@ -1,5 +1,6 @@
 ## Hello World 👋 It's [Sergio!](https://scanton.dev)
-I'm a software enginner with my ♥ in [PHP](https://php.net) and [Laravel](https://laravel.com). I usually work with WordPress (Web Development and Security), Python and JavaScript.
+
+I'm a web developer with my ♥ in [PHP](https://php.net) and [Laravel](https://laravel.com). I usually work with [WordPress](https://wordpress.org/), [JavaScript](https://www.javascript.com/) and [CSS3](https://www.w3.org/Style/CSS/Overview.en.html).
 
 <br/>
 
@@ -9,6 +10,8 @@ I'm a software enginner with my ♥ in [PHP](https://php.net) and [Laravel](http
 <a href="https://www.linkedin.com/in/itscanton">
 <img align="left" alt="Sergio Cantón LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
+
+<br />
 
 ## What i'm up to
 
@@ -21,6 +24,7 @@ I'm a software enginner with my ♥ in [PHP](https://php.net) and [Laravel](http
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
