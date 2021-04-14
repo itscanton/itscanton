@@ -29,9 +29,6 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 - 📖 I'm currently learning NodeJS, TypeScript and React.
 - 💬 My Personal site in [scanton.dev](https://scanton.dev).
 
-## Side Projects
-
-
 ## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
