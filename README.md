@@ -7,6 +7,9 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 <a href="https://twitter.com/viajerodev">
 <img align="left" alt="Sergio Cantón Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
+<a href="https://twitter.com/ofipanel">
+<img align="left" alt="Ofipanel Twitter" width="22px" src="https://ofipanel.com/ofipanel-theme/image/favicon.png" />
+</a>
 <a href="https://www.linkedin.com/in/itscanton">
 <img align="left" alt="Sergio Cantón LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
@@ -16,7 +19,7 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 ## What i'm up to
 
 - 🔭 I’m currently working for Public Government leading an IT Department
-- 🌱 I’m currently building [Ofipanel](https://ofipanel), a Web Application Builder for small and mid-size companies #NoCode.
+- 🌱 I’m currently building [Ofipanel](https://ofipanel.com), a Web Application Builder for small and mid-size companies #NoCode.
 - 📖 I'm currently learning NodeJS, TypeScript and React.
 - 💬 My Personal site in [scanton.dev](https://scanton.dev).
 
