@@ -2,8 +2,6 @@
 
 I'm a backend|web developer with ♥ developing new products in [PHP](https://php.net) and [Laravel](https://laravel.com). I also work with [WordPress](https://wordpress.org/), [JavaScript](https://www.javascript.com/) and [CSS3](https://www.w3.org/Style/CSS/Overview.en.html). I like to maintain Linux based environments based on maintainability, continuity, stability, and security.
 
-<br/>
-
 ## Where you can find me
 
 <a href="https://twitter.com/viajerodev">
@@ -13,16 +11,12 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 <img align="left" alt="Sergio Cantón LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
-<br />
-
 ## What i'm up to
 
 - 🔭 I’m currently working for Public Government leading an IT Department
 - 🌱 I’m currently building [Ofipanel](https://ofipanel), a Web Application Builder for small and mid-size companies #NoCode.
 - 📖 I'm currently learning NodeJS, TypeScript and React.
 - 💬 My Personal site in [scanton.dev](https://scanton.dev).
-
-<br />
 
 ## Languages and Tools
 
