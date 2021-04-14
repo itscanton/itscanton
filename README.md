@@ -18,8 +18,9 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 ## What i'm up to
 
-- 🔭 I’m currently working for Public Government leading an IT Department
+- 🔭 I’m currently working for Public Government leading an IT Department.
 - 🌱 I’m currently building [Ofipanel](https://ofipanel.com), a Web Application Builder for small and mid-size companies #NoCode.
+- 🌱 I built and currently maintain [Kuamuru](https://kuamuru.com), a white canvas to organize color sticky notes over it #Productivity.
 - 📖 I'm currently learning NodeJS, TypeScript and React.
 - 💬 My Personal site in [scanton.dev](https://scanton.dev).
 
