@@ -1,4 +1,4 @@
-## Hello World 👋 It's [Sergio!](https://scanton.dev)
+## Hi there, It's [Sergio!](https://scanton.dev) 👋
 
 I'm a backend|web developer with ♥ developing new products in [PHP](https://php.net) and [Laravel](https://laravel.com). I also work with [WordPress](https://wordpress.org/), [JavaScript](https://www.javascript.com/) and [CSS3](https://www.w3.org/Style/CSS/Overview.en.html). I like to maintain Linux based environments based on maintainability, continuity, stability, and security.
 
@@ -39,4 +39,4 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 ---
 
-![Itscanton's github stats](https://github-readme-stats.vercel.app/api?username=itscanton&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscanton&layout=compact&theme=buefy)](https://github.com/itscanton/github-readme-stats)
+![Itscanton's github stats](https://github-readme-stats.vercel.app/api?username=itscanton&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscanton&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
