@@ -4,8 +4,6 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 ## Where you can find me
 
-- [@viajerodev](https://twitter.com/viajerodev)<img align="left" alt="Sergio Cantón Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-
 <a href="https://twitter.com/viajerodev">
 <img align="left" alt="Sergio Cantón Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
