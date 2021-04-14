@@ -1,6 +1,6 @@
 ## Hello World 👋 It's [Sergio!](https://scanton.dev)
 
-I'm a backend|web developer with ♥ developing new products in [PHP](https://php.net) and [Laravel](https://laravel.com). I also work with [WordPress](https://wordpress.org/), [JavaScript](https://www.javascript.com/) and [CSS3](https://www.w3.org/Style/CSS/Overview.en.html). I like maintain Linux based environments based on maintainability, continuity, stability, and security.
+I'm a backend|web developer with ♥ developing new products in [PHP](https://php.net) and [Laravel](https://laravel.com). I also work with [WordPress](https://wordpress.org/), [JavaScript](https://www.javascript.com/) and [CSS3](https://www.w3.org/Style/CSS/Overview.en.html). I like to maintain Linux based environments based on maintainability, continuity, stability, and security.
 
 <br/>
 
