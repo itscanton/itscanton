@@ -39,4 +39,4 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 ---
 
-![Itscanton's github stats](https://github-readme-stats.vercel.app/api?username=itscanton&show_icons=true&hide_border=true)
+![Itscanton's github stats](https://github-readme-stats.vercel.app/api?username=itscanton&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscanton&layout=compact&theme=buefy)](https://github.com/itscanton/github-readme-stats)
