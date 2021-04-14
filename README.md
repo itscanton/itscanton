@@ -19,9 +19,15 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 ## What i'm up to
 
 - 🌱 I’m currently building [Ofipanel](https://ofipanel.com), a Web Application Builder for small and mid-size companies #NoCode.
+
+[![Ofipanel](https://scanton.dev/assets/images/ofipanel.png)](https://ofipanel.com)
+
 - 🌱 I built and currently maintain [Kuamuru](https://kuamuru.com), a web application to organize color sticky notes over canvas #Productivity.
 - 📖 I'm currently learning NodeJS, TypeScript and React.
 - 💬 My Personal site in [scanton.dev](https://scanton.dev).
+
+## Side Projects
+
 
 ## Languages and Tools
 
