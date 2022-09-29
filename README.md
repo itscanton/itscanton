@@ -18,7 +18,7 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 ## What i'm up to
 
-- 🌱 I’m currently building [Factura Simple](https://facturasimple.es), an accounting web application to generate pdf invoices in an easy way.
+- 🌱 I’m currently building [Factura Simple](https://facturasimple.es), an accounting web application to generate pdf invoices in an easy way #Accounting.
 
 [![Facturasimple](https://scanton.dev/assets/images/facturasimple.png)](https://facturasimple.es)
 
