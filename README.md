@@ -26,7 +26,7 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 [![Ofipanel](https://scanton.dev/assets/images/ofipanel.png)](https://ofipanel.com)
 
-- 🌱 I built and currently maintain [Kuamuru](https://kuamuru.com), a web application to organize color sticky notes over canvas #Productivity.
+- 🌱 I built and currently maintaining [Kuamuru](https://kuamuru.com), a web application to organize color sticky notes over canvas #Productivity.
 
 [![Kuamuru](https://scanton.dev/assets/images/kuamuru.jpg)](https://kuamuru.com)
 
