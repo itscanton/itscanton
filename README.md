@@ -18,6 +18,10 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 ## What i'm up to
 
+- 🌱 I’m currently building [Factura Simple](https://facturasimple.es), an accounting web application to generate pdf invoices in an easy way.
+
+[![Facturasimple](https://scanton.dev/assets/images/facturasimple.png)](https://facturasimple.es)
+
 - 🌱 I’m currently building [Ofipanel](https://ofipanel.com), a Web Application Builder for small and mid-size companies #NoCode.
 
 [![Ofipanel](https://scanton.dev/assets/images/ofipanel.png)](https://ofipanel.com)
