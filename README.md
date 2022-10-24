@@ -4,7 +4,7 @@ I'm a backend|web developer with ♥ developing new products in [PHP](https://ph
 
 ## Where you can find me
 
-<a href="https://twitter.com/muchocode">
+<a href="https://twitter.com/itscanton">
 <img align="left" alt="Sergio Cantón Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://twitter.com/ofipanel">
